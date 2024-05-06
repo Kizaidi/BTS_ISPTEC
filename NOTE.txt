@@ -1,0 +1,10 @@
+
+Compilar no terminal :
+
+gcc -o BTS_main main.c arvore.c menu.c util.c
+
+executar : 
+
+./BTS_main
+
+
